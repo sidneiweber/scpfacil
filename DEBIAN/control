@@ -1,0 +1,9 @@
+Package: SCP-Facil
+Version: 1.1
+Section: net
+Priority: optional
+Architecture: all
+Depends: yad, sshpass
+Installed-Size: 100
+Maintainer: Sidnei Weber <sidnei.weber@gmail.com>
+Description: Programa de envio de arquivos remotamente para outras máquinas de maneira simples e intuitiva (usando o protocolo scp).
